@@ -3,8 +3,7 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo%20Mauro-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-mauro/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo%20Mauro-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mateo-mauro/)
 
 ## About me
 
