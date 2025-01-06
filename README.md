@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">Spidey and His Amazing Friends</h3>
 <div align="center">
-<a href="https://mateomauro.github.io/Spidey/" target="_blank"><img src="https://i.imgur.com/b6bvooD.png" width="350" objeti cover alt="Spidey and His Amazing Friends"></a>
+<a href="https://mateomauro.github.io/Spidey/" target="_blank"><img src="https://i.imgur.com/4HQMAXm.png" width="400" objeti cover alt="Spidey and His Amazing Friends"></a>
 <p>
 <a href="https://github.com/mateomauro/Spidey" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -49,18 +49,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Task Assignment to Processors Using Algorithmic Techniques</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/mateomauro/Task-Assignment-to-Processors-Using-Algorithmic-Techniques" target="_blank"><img src="https://i.imgur.com/2i20alx.png" width="400" alt="Task Assignment to Processors Using Algorithmic Techniques"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/mateomauro/Task-Assignment-to-Processors-Using-Algorithmic-Techniques" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>The project solves problems in a simplified context of processors and tasks. First Part: Implemented services to retrieve task info by ID, list critical/non-critical tasks, and filter tasks by priority. Second Part: Task assignment with constraints (max 2 critical tasks per processor, execution time limit for non-cooled processors) using Backtracking (optimal solution) and Greedy (approximate solution).</p>
 </div>
                                                                                       
 </td>       
