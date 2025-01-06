@@ -1,9 +1,11 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://mateomauro.github.io/myPortfolio/">MateoMauro</a> 👋</h1>
+<div>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<div">
+<img  src="https://i.imgur.com/GVK08uy.png">
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo%20Mauro-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mateo-mauro/)
+
 
 ## About me
 
