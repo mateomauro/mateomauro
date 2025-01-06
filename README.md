@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">Spidey and His Amazing Friends</h3>
 <div align="center">
-<a href="https://mateomauro.github.io/Spidey/" target="_blank"><img src="https://imgur.com/a/p1t1l1b" width="400" alt="Spidey and His Amazing Friends"></a>
+<a href="https://mateomauro.github.io/Spidey/" target="_blank"><img src="https://i.imgur.com/b6bvooD.png" width="350" objeti cover alt="Spidey and His Amazing Friends"></a>
 <p>
 <a href="https://github.com/mateomauro/Spidey" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -31,19 +31,16 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Video Game Web Page</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://mateomauro.github.io/Interfaces/TP2/home.html" target="_blank"><img src="https://i.imgur.com/3N4wMu4.png" width="400" alt="Video Game Web Page"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/mateomauro/Interfaces" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>The website is responsive only on the home page. The main interactive feature is the Connect Four game, located in the center section under “Most Played This Week.” Navigate to this section to play the game, which showcases advanced JavaScript and OOP skills. Enjoy the modern design and animations throughout the site.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
