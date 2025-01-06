@@ -3,12 +3,9 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo%20Mauro-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mateo-mauro/)
 
-## Sobre mi
+## About me
 
 - 🎓 Graduate in Application Development (Técnico Universitario en Desarrollo de Aplicaciones Informáticas)  
 - 💻 Knowledge in Object-Oriented Programming, Data Structures, and Relational Databases. Experienced with Java, Spring Boot, javascript, and Git in collaborative projects.  
