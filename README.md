@@ -1,8 +1,5 @@
 <div>
 </div>
-<div">
-<img  src="https://i.imgur.com/GVK08uy.png">
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo%20Mauro-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mateo-mauro/)
 
