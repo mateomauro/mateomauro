@@ -8,7 +8,6 @@
 
 - 🎓 Graduate in Application Development (Técnico Universitario en Desarrollo de Aplicaciones Informáticas)  
 - 💻 Knowledge in Object-Oriented Programming, Data Structures, and Relational Databases. Experienced with Java, Spring Boot, javascript, and Git in collaborative projects.  
-- 🔍 Actively seeking part-time or entry-level roles in software development. Let’s connect!  
 <br>
 
 ## Proyectos
